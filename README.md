@@ -1,6 +1,6 @@
-## Data_Quality_E-Commerce
+# Data_Quality_E-Commerce
 
-# 1. Environment Setup
+## Environment Setup
 
 First, clone the repository and navigate into the project directory.
 
